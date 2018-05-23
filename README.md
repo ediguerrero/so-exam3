@@ -2,9 +2,9 @@
 
 **Universidad Icesi**  
 **Curso:** Sistemas Operativos  
-**Estudiante:** edisson guerrero londoño 
-**Codigo:** A00328068 
-**Correo:** juanfe_518@hotmail.com 
+**Estudiante:** edisson guerrero londoño    
+**Codigo:**  A00328068  
+**Correo:**  edixon_guerrero96@hotmail.com  
 **Repositorio:**  https://github.com/ediguerrero/so-exam3.git
 
 ### punto 3:
