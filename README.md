@@ -74,6 +74,14 @@ python y las dependencias
 
 ![](imagenes/vitravis.PNG)
 
+por ultimo vemos las pruebas pasar sin problemas
+
+![](imagenes/1.jpg)
+
+![](imagenes/w2.jpg)
+
+![](imagenes/l3.jpg)
+
 
 
 
