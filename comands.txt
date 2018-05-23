@@ -1,0 +1,930 @@
+    1  ls
+    2  clear
+    3  ls -l
+    4  su operativos
+    5  whoami
+    6  clear
+    7  adduser flaskdev
+    8  passwd flaskdev
+    9  su root
+   10  su flaskdev
+   11  cd
+   12  clear
+   13  tmux new-session -s flaskdev
+   14  su flaskdev
+   15  vi ~/.tmux.conf
+   16  nano ~/.tmux.conf
+   17  vi ~/.tmux.conf
+   18  yum install epel-release -y
+   19  yum install pyth
+   20  yum install python34 -y
+   21  vi ~/.tmux.conf
+   22  yum install epel-release -y
+   23  ls
+   24  clear
+   25  vi ~/.tmux.conf
+   26  ~/.tmux.conf
+   27  su root
+   28  ~/.tmux.conf
+   29  su flaskdev
+   30  clear
+   31  cd
+   32  clear
+   33  yum install python34-pip
+   34  tmux list-sessions
+   35  tmux a -t flaskdev
+   36  $TMUX
+   37  tmux a -t flaskdev
+   38  clear
+   39  su flaskdev
+   40  clear
+   41  cd
+   42  clear
+   43  whoami
+   44  clear
+   45  whoami
+   46  pwd
+   47  clear
+   48  pwd
+   49  git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+   50  vi ~/.zshrc
+   51  source ~/.zshrc
+   52  vi ~/.tmux.conf
+   53  ls
+   54  cd rpmbuild/SOURCES
+   55  ls
+   56  cd
+   57  who
+   58  whoami
+   59  ls
+   60  cd
+   61  clear
+   62  cd ..
+   63  clear
+   64  ld
+   65  ls
+   66  cd /usr
+   67  ls
+   68  cd bin
+   69  ls
+   70  ~/.tmux.conf
+   71  vi ~/.tmux.conf
+   72  ls
+   73  tmux
+   74  ls tmux
+   75  vi tmux
+   76  cd
+   77  clear
+   78  tmux list-sessions
+   79  cd /home/
+   80  ls
+   81  cd flaskdev
+   82  ~/.tmux.conf
+   83  cd
+   84  ~/.tmux.conf
+   85  ls
+   86  clear
+   87  whoami
+   88  cd /home/
+   89  ls
+   90  cd operativos
+   91  ls
+   92  ~/.tmux.conf
+   93  vi ~/.tmux.conf
+   94  ls -l
+   95  cd
+   96  ~/.oh-my-zsh
+   97  cd ..
+   98  clear
+   99  vi ~/.tmux.conf
+  100  ~/.tmux.conf
+  101  ~/root/.tmux.conf
+  102  ~/.tmux.conf
+  103  who
+  104  whoami
+  105  source ~/.tmux.conf
+  106  ~/.tmux.conf
+  107  clear
+  108  ~/.tmux.conf
+  109  ls
+  110  ls -l
+  111  su operativos
+  112  ip a
+  113  nmcli con up enp0s8
+  114  ip a
+  115  tmux new-session -s operativos
+  116  su flaskdev
+  117  whoami
+  118  ip a
+  119  pip --version
+  120  pip3 --version
+  121  pip
+  122  pip 
+  123  su root
+  124  whoami
+  125  pip
+  126  pip3
+  127  exit
+  128  ip 
+  129  ip a
+  130  nmcli con up enp0s8
+  131  ip a
+  132  clear
+  133  whoami
+  134  tmux new-session -s operativos
+  135  whoami
+  136  su flaskdev
+  137  ip a
+  138  nmcli con up enp0s8
+  139  ip a
+  140  ls
+  141  su flaskdev
+  142  pip install -user virtualenvwrapper
+  143  export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+  144  mkvirtualenv flaskdev
+  145  workon flaskdev
+  146  ls
+  147  su flaskdev
+  148  pip install psutil
+  149  cd
+  150  pip install psutil
+  151  su flaskdev
+  152  ip a
+  153  nmcli con up enp0s8
+  154  ip a
+  155  su flaskdev
+  156  pip install -r requirementsdev.txt
+  157  pip3 install -r requirementsdev.txt
+  158  su flaskdev
+  159  clear
+  160  cd
+  161  clear
+  162  yum install tree -y
+  163  clear
+  164  su operativos
+  165  clear
+  166  cd
+  167  install tox
+  168  pip3 install tox
+  169  clear
+  170  whoami
+  171  ip a
+  172  nmcli con up enp0s8
+  173  ip a
+  174  su flaskdev
+  175  clear
+  176  cd
+  177  clear
+  178  yum install -y wget
+  179  wget https://bootstrap.pypa.io/get-pip.py -P /tmp
+  180  \npython /tmp/get-pip.py
+  181  pip install virtualenv
+  182  yum install epel-release
+  183  yum install python34
+  184  yum install python34-pip
+  185  clear
+  186  ip a
+  187  pip install psutil
+  188  pip install psutil==4.3.0
+  189  pip3 install psutil==4.3.0
+  190  apt-get install python-dev
+  191  upgrade_oh_my_zsh
+  192  yum install apt
+  193  yum install apt-get
+  194  apt-get update
+  195  wget http://apt-rpm.org/releases/apt-0.5.15lorg3.tar.bz2
+  196  apt-get install python-dev
+  197  cd apt-0.5.15lorg3
+  198  ./configure
+  199  make install
+  200  cd
+  201  clear
+  202  yum group list
+  203  yum group list ids
+  204  yum group install "Development Tools"
+  205  whereis gcc
+  206  pip3 install psutil==4.3.0
+  207  yum install python-devel
+  208  yum install python34-devel 
+  209  pip3 install psutil==4.3.0
+  210  clear
+  211  export PYTHONPATH=.:$PYTHONPATH
+  212  yum install python-modestmaps.noarch cker
+  213  yum install python-mocker
+  214  yum install python34-mocker
+  215  ip a
+  216  nmcli con up enp0s8
+  217  ip a
+  218  nmcli con up enp0s8
+  219  clear
+  220  ls
+  221  \ntmux new-session -s examen3
+  222  P\nP\nclw
+  223  clear
+  224  cleare
+  225  clear
+  226  su flaskdev
+  227  whoami
+  228  pip install -U pytest
+  229  pip install --user virtualenvwrapper
+  230  export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+  231  pip install -U mock
+  232  clear
+  233  cd
+  234  clear
+  235  whoami
+  236  pytest -v test/tests_stats.py
+  237  workon flaskdev
+  238  source ~/.bashrc
+  239  workon flaskdev
+  240  mkvirtualenv flaskdev
+  241  source ~/.local/bin/virtualenvwrapper.sh
+  242  workon flaskdev
+  243  mkvirtualenv flaskdev
+  244  clear
+  245  pip install pytest
+  246  clear
+  247  pytest -v test/tests_stats.py
+  248  pip install -r requirementsdev.txt
+  249  ls
+  250  pip install -r requirements_dev.txt
+  251  pip install -r requirements.txt
+  252  clear
+  253  pytest -v test/tests_stats.py
+  254  pip install flask
+  255  clear
+  256  pytest -v test/tests_stats.py
+  257  clear
+  258  pip install flask
+  259  export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+  260  source ~/.bashrc
+  261  pytest -v test/tests_stats.py
+  262  clear
+  263  ls
+  264  pip install --user virtualenvwrapper
+  265  deactivate
+  266  CLEAR
+  267  \tclear
+  268  export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+  269  source ~/.bashrc
+  270  mkvirtualenv flaskdev
+  271  vi ~/.bashrc
+  272  pip install --user virtualenvwrapper
+  273  $ export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+  274  export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+  275  mkvirtualenv flaskdev
+  276  pip install --user virtualenvwrapper
+  277  export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+  278  mkvirtualenv flaskdev
+  279  clear
+  280  vi ~/.bashrc
+  281  source ~/.bashrc
+  282  mkvirtualenv flaskdev
+  283  source ~/.bashrc
+  284  mkvirtualenv flaskdev
+  285  vi ~/.bashrc
+  286  source ~/.bashrc
+  287  mkvirtualenv flaskdev
+  288  tmux new-session -s examen3
+  289  tmux list-sessions
+  290  tmux restar
+  291  tmux attach-session
+  292  clear
+  293  wget https://bootstrap.pypa.io/get-pip.py -P /tmp
+  294  python /tmp/get-pip.py
+  295  cd
+  296  pip install --user virtualenvwrapper
+  297  vi ~/.bashrc
+  298  source ~/.bashrc
+  299  mkvirtualenv flaskdev
+  300  virtualenvwrapper could not find /root/.local/bin/virtualenv find / -name "virtualenv"
+  301  find / -name "virtualenv"
+  302  mkvirtualenv flaskdev
+  303  export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+  304  mkvirtualenv flaskdev
+  305  export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+  306  mkvirtualenv flaskdev
+  307  clear
+  308  pip install --user virtualenvwrapper
+  309  export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+  310  vi ~/.bashrc
+  311  source ~/.bashrc
+  312  export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+  313  vi ~/.bashrc
+  314  pip uninstall virtualenv
+  315  clear
+  316  pip uninstall virtualenv
+  317  clear
+  318  export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+  319  vi ~/.bashrc
+  320  remove virtualenv  
+  321  pip3 uninstall virtualenv
+  322  pip uninstall virtualenv
+  323  pip install --user virtualenvwrapper
+  324  pip3 install --user virtualenvwrapper
+  325  export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+  326  vi ~/.bashrc
+  327  source ~/.bashrc
+  328  mkvirtualenv flaskdev
+  329  pip3 install pytest
+  330  ls
+  331  cd
+  332  ls
+  333  whoami
+  334  su flaskdev
+  335  whoami
+  336  pip3 install pytest
+  337  pip3 uninstall virtualenv
+  338  pip uninstall virtualenv
+  339  clear
+  340  pip uninstall virtualenv
+  341  pip3 uninstall virtualenv
+  342  lsvirtualenv
+  343  deactivate
+  344  yum install epel-release
+  345  yum install python34
+  346  yum install python34-pip
+  347  chown root:root /home 
+  348  mkvirtualenv flaskdev
+  349  rmvirtualenv test
+  350  pip install --user virtualenvwrapper
+  351  source ~/.bashrc
+  352  lsvirtualenv
+  353  rmvirtualenv flaskdev
+  354  clear
+  355  yum install python-flask
+  356  pip install flask
+  357  yum install python-psutil
+  358  yum install python-mocker
+  359  ls
+  360  cd /home
+  361  ls
+  362  cd flaskdev
+  363  cd so-exam3
+  364  cd A00054628
+  365  ls
+  366  pytest -v test/tests_stats.py
+  367  pip install mock
+  368  pytest -v test/tests_stats.py
+  369  clear
+  370  workon flaskdev
+  371  mkvirtualenv flaskdev
+  372  clear
+  373  tox -e pytest
+  374  vi requirements_dev.txt
+  375  vi tox.ini
+  376  clear
+  377  install_command=ARGV.
+  378  vi tox.ini
+  379  tox -e pytest
+  380  clear
+  381  gaa
+  382  gcmsg "Upload new files"
+  383  ggp
+  384  tox -e pytest
+  385  pytest: could not install deps [-rrequirements_dev.txt]
+  386  source .tox/py27/bin/activate
+  387  cd
+  388  source .tox/py27/bin/activate
+  389  pip install nose unittest2 protobuf==3.0.0-alpha-1
+  390  tox -e pytest
+  391  tox -E PYTEST
+  392  cd so-exam3/
+  393  ls
+  394  cd /home/flaskdev
+  395  cd so-exam3/A00054628
+  396  ls
+  397  clear
+  398  vi .gitignore
+  399  tox -e py27
+  400  tox -e pytest
+  401  clear
+  402  ls
+  403  tox -e pytest
+  404  pip install --upgrade pip tox virtualenv
+  405  tox -e pytest
+  406  clear
+  407  vi .tox
+  408  cd .tox/
+  409  ls
+  410  cd py
+  411  cd pytest
+  412  ls
+  413  clear
+  414  cd ..
+  415  ls
+  416  tox -e pytest
+  417  pytest: could not install deps [-rrequirements_dev.txt]; v = InvocationError('/home/flaskdev/so-exam3/A00054628/.tox/pytest/bin/pip install -rrequirements_dev.txt (see /home/flaskdev/so-exam3/A00054628/.tox/pytest/log/pytest-1.log)', 1)
+  418  ls
+  419  vi .travis.yml
+  420  rvm use default
+  421  clear
+  422  pip install tox-travis
+  423  tox -e pytest
+  424  vi requirements_dev.txt
+  425  vi .travis.yml
+  426  tox -e pytest
+  427  vi requirements.txt
+  428  tox -e pytest
+  429  vi tox.ini
+  430  python setup.py test
+  431  pip install pytest
+  432  python setup.py test
+  433  tox -e pytest
+  434  tox -e pytest test/tests_stats.py
+  435  pytest -v test/tests_stats.py
+  436  tox -e test/tests_stats.py pytest
+  437  tox -e test/tests_stats.py
+  438  tox -e python
+  439  vi .travis.yml
+  440  tox -e python
+  441  tox -e pytest
+  442  cd .tox
+  443  ls
+  444  cd pytest
+  445  ls
+  446  cd bin
+  447  ls
+  448  cd pytest
+  449  vi pytest
+  450  cd ..
+  451  clear
+  452  cd A00054628
+  453  rake
+  454  ls
+  455  cd .tox
+  456  ls
+  457  cd pytest
+  458  cd bin
+  459  ls
+  460  vi pytest
+  461  cd ..
+  462  clear
+  463  gaa
+  464  gcmsg "Upload new files"
+  465  ggp
+  466  git add .travis.yml
+  467  git commit -m "Added .travis.yml file"
+  468  git push -u origin
+  469  tox -e pytest
+  470  exited with code 5)
+  471  pytest -v
+  472  vi test/tests_stats.py
+  473  gaa
+  474  gcmsg "Changed files"
+  475  ggp
+  476  vi .gitignore
+  477  /home/travis/.rvm/gems/ruby-2.4.1@global/gems/rake-12.3.0/exe/rake:27:in `<top (required)>'
+  478  pytest -v
+  479  tox -e pytest
+  480  pytest: commands failed
+  481  pip install pytest-rerunfailures
+  482  pytest --reruns 5
+  483  pytest --reruns-delay
+  484  tox -r
+  485  /home/flaskdev/so-exam3/A00054628/.tox/pytest
+  486  .s
+  487  ls
+  488  cd bin
+  489  vi pytest
+  490  cd ..
+  491  ls
+  492  cd tmp
+  493  ls
+  494  cd ..
+  495  ls
+  496  cd python
+  497  ls
+  498  cd bin
+  499  ls
+  500  cd python
+  501  vi python
+  502  cd ..
+  503  clear
+  504  ls
+  505  mv build /home/flaskdev/so-exam3
+  506  move deply.sh /home/flaskdev/so-exam3
+  507  mv deply.sh /home/flaskdev/so-exam3
+  508  mv dist /home/flaskdev/so-exam3
+  509  mv op_stats /home/flaskdev/so-exam3
+  510  mv op_stats.egg-info /home/flaskdev/so-exam3
+  511  mv requirements_dev.txt /home/flaskdev/so-exam3
+  512  mv requirements.txt /home/flaskdev/so-exam3
+  513  mv scripts /home/flaskdev/so-exam3
+  514  mv setup.py /home/flaskdev/so-exam3
+  515  mv test /home/flaskdev/so-exam3
+  516  mv tox.ini /home/flaskdev/so-exam3
+  517  ls
+  518  rm README.md
+  519  cd ..
+  520  ls
+  521  rm -rf A00054628
+  522  clear
+  523  gaa 
+  524  gcmsg "Put Files out of A0054628 and Delete folder A00054628"
+  525  ggp
+  526  --trace
+  527  ls
+  528  tox -e pytest
+  529  tox -e pytest test/tests_stats.py
+  530  pytest -v
+  531  /home/flaskdev/.virtualenvs/flaskdev/bin/python
+  532  ls
+  533  /home/flaskdev/.virtualenvs/flaskdev/bin
+  534  ls
+  535  vi python
+  536  vi pytest
+  537  cd ..
+  538  clear
+  539  cd
+  540  cd /home/flaskdev
+  541  ls
+  542  cd so-exam3
+  543  ls
+  544  vi .travis.yml
+  545  vi .gitignore
+  546  gaa
+  547  gcmsg "Add .travi and .gitignore"
+  548  ggp
+  549  pytest -v
+  550  python test/tests_stats.py
+  551  pytest -v test/tests_stats.py
+  552  tox -e pytest
+  553  tree
+  554  python op_stats/app.py
+  555  pip install flask
+  556  python op_stats/app.py
+  557  python setup.py install
+  558  python op_stats/app.py
+  559  tree
+  560  python deply.sh install
+  561  ls
+  562  cd scripts
+  563  ls
+  564  cd ..
+  565  rm deply.sh
+  566  gaa 
+  567  gcmsg "Remove deply.sh"
+  568  ggp
+  569  tox -e pytest
+  570  pytest -v
+  571  python deploy.sh install
+  572  cd scripts
+  573  ls
+  574  python deploy.sh install
+  575  export FLASK_APP=op_stats/app.py
+  576  flask run
+  577  export FLASK_APP=op_stats/app.py
+  578  flask run
+  579  clear
+  580  git rm find . -name "*.pyc" -exec git rm -f {} \;
+  581  git rm
+  582  find . -name "*.pyc" -exec git rm -f {} \;
+  583  *.pyc
+  584  ls
+  585  cd ..
+  586  ls
+  587  vi .gitignore
+  588  git rm -f
+  589  find . -name "*.pyc" -exec git rm -f {} \;
+  590  gaa
+  591  gcmsg "Remove *.pyc"
+  592  ggp
+  593  tox -e pytest
+  594  git rm -f
+  595  find . -name "*.egg-info" -exec git rm -f "{}" \;
+  596  clear
+  597  ls
+  598  vi .gitignore
+  599  python .gitignore
+  600  vi .gitignore
+  601  python .gitignore
+  602  vi .gitignore
+  603  python .gitignore
+  604  tox -e pytest test/tests_stats.py
+  605  pytest -v
+  606  pytest -v test/tests_stats.py
+  607  cd ..
+  608  pytest -v test/tests_stats.py
+  609  pytest -v
+  610  cd test
+  611  pytest -v
+  612  cd ..
+  613  clear
+  614  cd /home/flaskdev
+  615  cd so-exam3
+  616  python setup.py test
+  617  vi setup.py
+  618  python setup.py test
+  619  pip install tox-travis
+  620  pytest -v
+  621  pytest -v test/tests_stats.py
+  622  python deploy.sh install
+  623  python scripts/deploy.sh install
+  624  python op_stats/app.py
+  625  pip install mock
+  626  python op_stats/app.py
+  627  pip install -r requirements.txt
+  628  pip install -r requirements_dev.txt
+  629  python op_stats/app.py
+  630  python setup.py install
+  631  python op_stats/app.py
+  632  pytest -v
+  633  pytest -v test/tests_stats.py
+  634  pytest -v
+  635  pytest -v test/tests_stats.py
+  636  tox -e  test/tests_stats.py
+  637  tox -e  pytest test/tests_stats.py
+  638  cd /home/flaskdev/so-exam3/.tox/pytest/bin
+  639  ls
+  640  vi pytest
+  641  cd ..
+  642  clear
+  643  ls
+  644  mkvirtualenv flaskdev
+  645  source .tox/py27/bin/activate
+  646  source ~/.bashrc
+  647  mkvirtualenv flaskdev
+  648  clear
+  649  pip install pytest-cov
+  650  pip install .
+  651  ls
+  652  pip3 install .
+  653  pip install .
+  654  py.test --cov mylib
+  655  pytest -v test/tests_stats.py
+  656  pytest -v 
+  657  pip install -e 
+  658  py.test --cov
+  659  pip3 install flask
+  660  python setup.py install
+  661  pytest -v test/tests_stats.py
+  662  pip3 -r requirements.txt instal
+  663  pip3 -r requirements.txt install
+  664  pip install -r requirements_dev.txt
+  665  pip install -r requirements.txt
+  666  pytest -v test/tests_stats.py
+  667  python op_stats/app.py
+  668  pytest -v
+  669  clear
+  670  pytest -v
+  671  pytest -v test/tests_stats.py
+  672  vi tox.ini
+  673  tox.ini
+  674  tox -e tox.ini
+  675  tox
+  676  install_command=ARGV.
+  677  tox
+  678  ls
+  679  vi tox.ini
+  680  vi requirements.txt
+  681  vi requirements_dev.txt
+  682  tox
+  683  deactivate
+  684  pip install --upgrade -r requirements.txt
+  685  workon flaskdev
+  686  pip install --upgrade -r requirements.txt
+  687  vi setup.py
+  688  vi .travis.yml
+  689  ls
+  690  clear
+  691  tox
+  692  tox test/tests_stats.py
+  693  tox -e pytest
+  694  ls
+  695  cd build
+  696  ls
+  697  cd ..
+  698  cd dist
+  699  ls
+  700  cd ..
+  701  tox setup.py
+  702  tox test/tests_stats.py
+  703  cd ..
+  704  cd so-microservice
+  705  ls
+  706  cd .tox
+  707  ls
+  708  cd pytest
+  709  ls
+  710  cd bin
+  711  vi pytest
+  712  cd ..
+  713  cd so-exam3
+  714  ls
+  715  cd .tox
+  716  cd pytest
+  717  ls
+  718  cd bin
+  719  ls
+  720  vi pytest
+  721  cd ..
+  722  clear
+  723  tox
+  724  tox -e pytest
+  725  cd .tox
+  726  cd pytest
+  727  cd bin
+  728  vi pytest
+  729  cd ..
+  730  tox
+  731  tox -e python
+  732  tox -e pytest
+  733  Exec format error
+  734  in _execute_child
+  735  cd /usr/lib64/python3.4/
+  736  ls
+  737  vi subprocess.py
+  738  cd ..
+  739  cd .
+  740  cd ..
+  741  cd /home/flaskdev/so-exam3/
+  742  ls
+  743  clear
+  744  tox
+  745  python setup.py install
+  746  tox
+  747  pip install -r requirements.txt
+  748  pip install -r requirements_dev.txt
+  749  clear
+  750  deactivate
+  751  clear
+  752  workon flaskdev
+  753  ls
+  754  clear
+  755  tox -e pytest
+  756  tox -v
+  757  pytest -h
+  758  export PYTEST_ADDOPTS="-v"
+  759  workon flaskdev
+  760  tox -v
+  761  git checkout master
+  762  deactivate
+  763  cd ..
+  764  su flaskdev
+  765  ls
+  766  cd so-exam3
+  767  ls
+  768  cd ..
+  769  rm -rf so-exam3
+  770  ls
+  771  su flaskdev
+  772  nmcli con up enp0s8
+  773  su flaskdev
+  774  nmcli con up enp0s8
+  775  clear
+  776  tmux attach-session
+  777  tmux new-session -s examen3
+  778  clear
+  779  su flaskdev
+  780  clear
+  781  cd
+  782  cd so-exam3
+  783  cd
+  784  clear
+  785  ls
+  786  su flaskdev
+  787  ip a
+  788  ip
+  789  nmcli con up enp0s8
+  790  ip a
+  791  su julian
+  792  whoami
+  793  su 
+  794  su julian
+  795  ls
+  796  cd..
+  797  cd ..
+  798  ls
+  799  adduser julian
+  800  passwd julian
+  801  cd julian
+  802  su julian
+  803  nmcli con up enp0s8
+  804  ip 
+  805  ip a
+  806  ip
+  807  ip a
+  808  nmcli con up enp0s8
+  809  ip a
+  810  ip 
+  811  ip a
+  812  su julian
+  813  cd home
+  814  cg /homE
+  815  cd /homE
+  816  cd home
+  817  cd /home
+  818  ls
+  819  cd flskdev
+  820  cd flaskdev
+  821  ls
+  822  rm -rf so-exam3
+  823  ls
+  824  ip a
+  825  nmcli con up enp0s8
+  826  ip a
+  827  cd /home
+  828  ls
+  829  git clone https://github.com/ediguerrero/so-exam3.git
+  830  ls
+  831  rm -rf so-exam3
+  832  ls
+  833  cd flaskdev
+  834  ls
+  835  git clone https://github.com/ediguerrero/so-exam3.git
+  836  ls
+  837  cd so-exam3
+  838  git checkout ediguerrero/so-exam3
+  839  ls
+  840  cd tests
+  841  ls
+  842  vi test_stats.py
+  843  pytest -V
+  844  py.test -v
+  845  cd ..
+  846  ls
+  847  vi tox.ini
+  848  tox -e pytest
+  849  ls
+  850  vi .travis.yml
+  851  ls
+  852  vi .travis.yml
+  853  vi tox.ini
+  854  ls
+  855  cd tests
+  856  ls
+  857  vi test_stats.py
+  858  ls
+  859  cd ..
+  860  ls
+  861  cd op_stats
+  862  ls
+  863  vi app.py
+  864  vi stats.py
+  865  cd __pycache__
+  866  ls
+  867  cd ..
+  868  ls
+  869  rm -rf __init__.pyc
+  870  ls
+  871  rm -rf app.pyc
+  872  rm -rf stats.pyc
+  873  ls
+  874  cd ..
+  875  ls
+  876  cd tests
+  877  ls
+  878  rm -rf __init__.pyc
+  879  ls
+  880  cd ..
+  881  ls
+  882  mkdir imagenes
+  883  ls
+  884  cd imagenes
+  885  vi prueba.txt
+  886  ls
+  887  cd ..
+  888  ls
+  889  git config --global user.name "ediguerrero"
+  890  git config --global user.email "edixon_guerrero96➜  so-exam3 git:(ediguerrero/so-exam3) ✗ git config --global user.email "edixon_guerrero96"                                     <<<"
+  891  ls
+  892  cd so-exam3
+  893  ls
+  894  cd tests
+  895  ls
+  896  cd ..
+  897  ls
+  898  cd scripts
+  899  ls
+  900  cd ..
+  901  cd op_stats
+  902  ls
+  903  cd ..
+  904  git config --global user.name "ediguerrero"
+  905  git config --global user.email "edixon_guerrero96@hotmail.com"
+  906  ip a
+  907  cd /home
+  908  ls
+  909  cd flaskdev
+  910  ls
+  911  cd so-exam3
+  912  ls
+  913  git config --global user.name "ediguerrero"
+  914  git config --global user.email "edixon_guerrero96@hotmail.com"
+  915  gaa
+  916  gcmsg "Add punto2"
+  917  ggp
+  918  ls
+  919  tox -e pytest
+  920  ip 
+  921  ip a
+  922  nmcli con up enp0s8
+  923  ip a
+  924  cd /home
+  925  ls
+  926  cd flaskdev
+  927  ls
+  928  cd so-exam3
+  929  ls
+  930  history < comands.txt
